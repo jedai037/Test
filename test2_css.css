@@ -1,0 +1,63 @@
+body{
+    background: url('bg.png') center no-repeat;
+    height: 755px;
+}
+.block1{
+    text-align: left;
+    color: #7c736a;
+    font-weight: 700;
+    font-size: 16px;
+    padding-left: 29%;
+    padding-top: 3%;
+}
+.block1_sub{
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 30px;
+    line-height: 1.5;
+}
+.block2{
+    text-align: left;
+    color: #28303b;
+    font-weight: 700;
+    font-size: 16px;
+    padding-left: 54%;
+    padding-top: 1%;
+}
+.block2_sub{
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 30px;
+    line-height: 1.5;
+    color: #766865;
+}
+.block3{
+    text-align: left;
+    color: #3c3024;
+    font-weight: 700;
+    font-size: 16px;
+    padding-left: 29%;
+    padding-top: 1%;
+}
+.block3_sub{
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 30px;
+    line-height: 1.5;
+    color: #766865;
+}
+.block4{
+    text-align: left;
+    color: #3c3024;
+    font-weight: 700;
+    font-size: 16px;
+    padding-left: 54%;
+    padding-top: 1%;
+}
+.block4_sub{
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 30px;
+    line-height: 1.5;
+    color: #766865;
+}
